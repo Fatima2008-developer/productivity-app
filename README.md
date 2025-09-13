@@ -15,5 +15,7 @@ Persistent storage with a local JSON file (no database required)
  Tech Stack
 
 C#
+WPF(winows presentation foundation)
+Json and crud operations for persistant data storage
 WPF (Windows Presentation Foundation)
 JSON for local storage
